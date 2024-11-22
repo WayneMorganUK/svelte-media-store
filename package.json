@@ -10,8 +10,8 @@
   "author": "Stephane Vanraes",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/arzidava/svelte-media-store/issues"
+    "url": "https://github.com/waynemorgan/svelte-media-store/issues"
   },
-  "homepage": "https://github.com/arzidava/svelte-media-store#readme",
+  "homepage": "https://github.com/waynemorganuk/svelte-media-store#readme",
   "type": "module"
 }
