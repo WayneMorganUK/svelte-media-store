@@ -4,7 +4,7 @@
   "description": "A utility library to use media query as stores.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/arzidava/svelte-media-store.git"
+    "url": "git+https://github.com/waynemorganuk/svelte-media-store.git"
   },
   "main": "index.svelte.js",
   "author": "Stephane Vanraes",
